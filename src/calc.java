@@ -3,6 +3,11 @@ public class calc {
         int result = a/b;
         System.out.println("a / b = " + result);
     }
+
+    public static void sub(int a, int b){
+      int result = a-b;
+      System.out.println("a - b = " + result);
+  }
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -34,3 +39,4 @@ public class calc {
         }
     }
 }
+
