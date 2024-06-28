@@ -1,3 +1,7 @@
+
+def multiply(x, y):
+    return x * y
+
 def divide(x, y):
     if y != 0:
         return x / y
@@ -36,3 +40,4 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
