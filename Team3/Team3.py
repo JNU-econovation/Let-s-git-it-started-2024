@@ -7,3 +7,7 @@ print2025()
 
 def printHappy():
     print("Happy")
+
+
+def printNew():
+  print("New")
