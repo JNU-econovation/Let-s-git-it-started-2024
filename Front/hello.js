@@ -4,3 +4,6 @@ function printSimYear() {
 function printminYear() {
   console.log(year);
 }
+function printSimHappy() {
+  console.log("Happy");
+}
