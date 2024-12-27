@@ -1,5 +1,8 @@
 # 3조 안녕하세요. 
 
+def printYear():
+    print("2025")
+
 def print2025():
     print("2025")
 
@@ -11,3 +14,4 @@ def printHappy():
 
 def printNew():
   print("New")
+
